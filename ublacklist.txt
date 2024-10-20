@@ -91,24 +91,12 @@
 /\.tvnet\./
 /\.tvplus\./
 /\.ulketv\./
-/\.webtekno\./
 /\.yabantv\./
 
-# diyanet
-/\.ditib\./
-/\.diyadinnet\./
-/\.diyanet.tv\./
-/\.diyanet\./
-/\.islamansiklopedisi\./
-/\.sorularlaislamiyet\./
-
 # it
-/\.bing\./
 /\.gezginler\./
 /\.indir\./
 /\.indyturk\./
-*://answers.microsoft.com/*
-*://techcommunity.microsoft.com/*
 
 # news
 /\.41havadis\./
@@ -567,7 +555,6 @@
 /\.seskocaeli\./
 /\.seslimakale\./
 /\.sg\./
-/\.sikayetvar\./
 /\.thelira\./
 /\.thewp\./
 /\.timeturk\./
@@ -585,27 +572,3 @@
 /\.yirmidort\./
 /\.zanka\./
 /\.zapier\./
-
-# spam domain extensions
-*://*.xz/*
-*://*.online/*
-*://*.fr/*
-*://*.es/*
-*://*.fi/*
-*://*.pt/*
-*://*.nl/*
-*://*.uk/*
-*://*.it/*
-*://*.ru/*
-*://*.pl/*
-*://*.de/*
-*://*.cz/*
-*://*.sy/*
-*://*.pk/*
-*://*.gr/*
-*://*.tn/*
-*://*.ar/*
-*://*.nu/*
-*://*.si/*
-*://*.be/*
-*://*.ch/*
